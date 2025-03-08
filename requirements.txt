@@ -1,0 +1,6 @@
+ipykernel
+pymilvus
+ollama
+pymilvus[model]
+tqdm
+scikit-learn
