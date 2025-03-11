@@ -5,3 +5,7 @@ pymilvus[model]
 tqdm
 scikit-learn
 nltk
+psycopg2-binary 
+sqlalchemy 
+pgvector 
+numpy

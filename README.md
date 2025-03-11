@@ -1,1 +1,1 @@
-# milvus-examples
+# pgvector-examples
